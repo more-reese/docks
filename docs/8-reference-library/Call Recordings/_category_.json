@@ -1,0 +1,8 @@
+{
+  "label": "Call Recordings & Notes",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Find recordings, notes, and transcripts from community calls, discussions, and demos.",
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Explore the Hats Ecosystem",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Disover projects that are using Hats today and how they're using it.",
+  }
+}
